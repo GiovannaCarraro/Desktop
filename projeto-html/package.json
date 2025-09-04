@@ -1,0 +1,19 @@
+{
+  "name": "projeto-html",
+  "version": "1.0.0",
+  "description": "Estudos sobre o display-flex, position e tags semanticas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "position",
+    "display",
+    "flex",
+    "semantica",
+    "html",
+    "css"
+  ],
+  "author": "Giovanna",
+  "license": "ISC"
+}
